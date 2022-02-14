@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yummrecipe/static/css/main.b7856579.css",
+    "main.js": "/yummrecipe/static/js/main.1f034d0f.js",
+    "static/js/787.7423e620.chunk.js": "/yummrecipe/static/js/787.7423e620.chunk.js",
+    "index.html": "/yummrecipe/index.html",
+    "main.b7856579.css.map": "/yummrecipe/static/css/main.b7856579.css.map",
+    "main.1f034d0f.js.map": "/yummrecipe/static/js/main.1f034d0f.js.map",
+    "787.7423e620.chunk.js.map": "/yummrecipe/static/js/787.7423e620.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7856579.css",
+    "static/js/main.1f034d0f.js"
+  ]
+}
